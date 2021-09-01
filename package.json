@@ -1,0 +1,25 @@
+{
+  "name": "Tg-Bootstrap",
+  "version": "5.1.0",
+  "description": "<p align=\"center\">\r   <a href=\"https://trackgenesis.com/\">\r     <img src=\"https://getbootstrap.com/docs/5.1/assets/brand/bootstrap-logo-shadow.png\" alt=\"TG-Bootstrap logo\" width=\"200\" height=\"165\">\r   </a>\r </p>",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/trackgenesis/Tg-Bootstrap.git"
+  },
+  "keywords": [
+    "Bootstrap"
+  ],
+  "author": "TrackGenesis",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/trackgenesis/Tg-Bootstrap/issues"
+  },
+  "homepage": "https://github.com/trackgenesis/Tg-Bootstrap#readme",
+  "dependencies": {
+    "bootstrap": "^5.1.0"
+  }
+}
