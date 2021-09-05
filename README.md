@@ -44,12 +44,6 @@ tg-bootstrap/
 
 ```
 
-## Isolated by
-
-**Justin J Daniel**
-
-- <https://github.com/justinjdaniel>
-
 
 ## License
 
