@@ -8,7 +8,7 @@
 <h3 align="center">TG-Bootstrap</h3>
 
 <p align="center">
-  Tg-bootstarp is an isolated bootstrap version to avoid conflict with existing styles.
+  Tg-bootstrap is an isolated bootstrap version to avoid conflict with existing styles.
   <br>
   Include <code>.tg</code> in all elements which need bootstrap styling.
   <br>
