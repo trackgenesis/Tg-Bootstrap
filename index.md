@@ -1,4 +1,4 @@
-## Welcome to Tg-Bootstrap
+## Tg-Bootstrap
 
 <p align="center">
   <a href="https://trackgenesis.github.io/tg-bootstrap/">
@@ -15,14 +15,6 @@
   <br>
   <a href="https://getbootstrap.com/docs/5.1/"><strong>Explore Bootstrap docs »</strong></a>
 </p>
-
-## Table of contents
-
-- [Welcome to Tg-Bootstrap](#welcome-to-tg-bootstrap)
-- [Table of contents](#table-of-contents)
-- [Quick start](#quick-start)
-- [What's included](#whats-included)
-- [License](#license)
 
 
 ## Quick start
@@ -43,7 +35,6 @@ tg-bootstrap/
 └── tg-bootstrap.min.css
 
 ```
-
 
 ## License
 
