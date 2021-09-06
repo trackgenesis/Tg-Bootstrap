@@ -1,37 +1,50 @@
-## Welcome to GitHub Pages
+## Welcome to Tg-Bootstrap
 
-You can use the [editor on GitHub](https://github.com/trackgenesis/Tg-Bootstrap/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+<p align="center">
+  <a href="https://trackgenesis.github.io/tg-bootstrap/">
+    <img src="https://raw.githubusercontent.com/trackgenesis/Tg-Bootstrap/main/assets/TG-Bootstrap.png" alt="TG-Bootstrap logo" width="200" height="200">
+  </a>
+</p>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+<h3 align="center">TG-Bootstrap</h3>
 
-### Markdown
+<p align="center">
+  Tg-Bootstrap is an isolated bootstrap version to avoid conflict with existing styles.
+  <br>
+  Include <code>.tg</code> in all elements which need bootstrap styling.
+  <br>
+  <a href="https://getbootstrap.com/docs/5.1/"><strong>Explore Bootstrap docs »</strong></a>
+</p>
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Table of contents
 
-```markdown
-Syntax highlighted code block
+- [Welcome to Tg-Bootstrap](#welcome-to-tg-bootstrap)
+- [Table of contents](#table-of-contents)
+- [Quick start](#quick-start)
+- [What's included](#whats-included)
+- [License](#license)
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
+## Quick start
 
-1. Numbered
-2. List
+Several quick start options are available:
 
-**Bold** and _Italic_ and `Code` text
+- [Download the latest release](https://github.com/trackgenesis/Tg-Bootstrap/archive/v5.1.0.zip)
+- Clone the repo: `git clone https://github.com/trackgenesis/Tg-Bootstrap`
 
-[Link](url) and ![Image](src)
+
+## What's included
+
+Within the download you'll find the following directories and files, logically grouping common assets and providing both compiled and minified variations. You'll see something like this:
+
+```text
+tg-bootstrap/
+├── tg-bootstrap.css
+└── tg-bootstrap.min.css
+
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
+## License
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/trackgenesis/Tg-Bootstrap/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Code released under the [MIT License](https://github.com/trackgenesis/Tg-Bootstrap/blob/main/LICENSE).
