@@ -1,4 +1,4 @@
-## Tg-Bootstrap
+<!-- ## Tg-Bootstrap -->
 
 <p align="center">
   <a href="https://trackgenesis.github.io/tg-bootstrap/">
@@ -6,7 +6,7 @@
   </a>
 </p>
 
-<h3 align="center">TG-Bootstrap</h3>
+<h1 align="center">Tg-Bootstrap</h1>
 
 <p align="center">
   Tg-Bootstrap is an isolated bootstrap version to avoid conflict with existing styles.
