@@ -21,7 +21,6 @@
   - [Table of contents](#table-of-contents)
   - [Quick start](#quick-start)
   - [What's included](#whats-included)
-  - [Isolated by](#isolated-by)
   - [License](#license)
 
 
