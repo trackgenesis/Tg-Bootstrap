@@ -1,8 +1,7 @@
 /*!
- * Bootstrap v5.1.0 (https://getbootstrap.com/)
- * Copyright 2011-2021 The Bootstrap Authors
- * Copyright 2011-2021 Twitter, Inc.
- * Licensed under MIT (https://github.com/twbs/bootstrap/blob/main/LICENSE)
+ * Bootstrap v5.1.0 (https://trackgenesis.github.io/Tg-Bootstrap/)
+ * Copyright 2011-2021 TrackGenesis Ltd
+ * Licensed under MIT (https://github.com/trackgenesis/Tg-Bootstrap/blob/main/LICENSE
  */
 
 :root {
@@ -65,9 +64,9 @@
   --bs-body-bg: #fff;
 }
 
-*,
-*::before,
-*::after {
+.tg *,
+.tg *::before,
+.tg *::after {
   -webkit-box-sizing: border-box;
   box-sizing: border-box;
 }
@@ -78,7 +77,7 @@
   }
 }
 
-body {
+.tg body {
   margin: 0;
   font-family: var(--bs-body-font-family);
   font-size: var(--bs-body-font-size);
@@ -91,14 +90,14 @@ body {
   -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
 }
 
-hr {
+.tg hr {
   margin: 1rem 0;
   color: inherit;
   background-color: currentColor;
   border: 0;
   opacity: 0.25;
 }
-hr:not([size]) {
+.tg hr:not([size]) {
   height: 1px;
 }
 
