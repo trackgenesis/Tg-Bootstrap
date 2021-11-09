@@ -1,7 +1,7 @@
 # Tg-Bootstrap
 <p align="center">
   <a href="https://trackgenesis.com/">
-    <img src="assets/TG-Bootstrap.png" alt="TG-Bootstrap logo" width="200" height="200">
+    <img src="https://user-images.githubusercontent.com/62233773/140937985-2b277689-0be5-429a-be5a-722feb3dc6fb.png" alt="TG-Bootstrap logo" width="200" height="200">
   </a>
 </p>
 
@@ -40,6 +40,8 @@ Within the download you'll find the following directories and files, logically g
 
 ```text
 tg-bootstrap/
+├── README.md
+├── LICENSE
 ├── tg-bootstrap.css
 └── tg-bootstrap.min.css
 
