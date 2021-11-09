@@ -1,12 +1,11 @@
-<!-- ## Tg-Bootstrap -->
-
+# Tg-Bootstrap
 <p align="center">
-  <a href="https://trackgenesis.github.io/tg-bootstrap/">
-    <img src="https://raw.githubusercontent.com/trackgenesis/Tg-Bootstrap/main/assets/TG-Bootstrap.png" alt="TG-Bootstrap logo" width="200" height="200">
+  <a href="https://trackgenesis.com/">
+    <img src="https://user-images.githubusercontent.com/62233773/140937985-2b277689-0be5-429a-be5a-722feb3dc6fb.png" alt="TG-Bootstrap logo" width="200" height="200">
   </a>
 </p>
 
-<h1 align="center">Tg-Bootstrap</h1>
+<h3 align="center">TG-Bootstrap</h3>
 
 <p align="center">
   Tg-Bootstrap is an isolated bootstrap version to avoid conflict with existing styles.
@@ -16,12 +15,20 @@
   <a href="https://getbootstrap.com/docs/5.1/"><strong>Explore Bootstrap docs »</strong></a>
 </p>
 
+## Table of contents
+
+- [Tg-Bootstrap](#tg-bootstrap)
+  - [Table of contents](#table-of-contents)
+  - [Quick start](#quick-start)
+  - [What's included](#whats-included)
+  - [License](#license)
+
 
 ## Quick start
 
 Several quick start options are available:
 
-- [Download the latest release](https://github.com/trackgenesis/Tg-Bootstrap/archive/v5.1.0.zip)
+- [Download the latest release](https://github.com/trackgenesis/Tg-Bootstrap/archive/v5.1.3.zip)
 - Clone the repo: `git clone https://github.com/trackgenesis/Tg-Bootstrap`
 
 
@@ -31,10 +38,12 @@ Within the download you'll find the following directories and files, logically g
 
 ```text
 tg-bootstrap/
+├── README.md
+├── LICENSE
 ├── tg-bootstrap.css
 └── tg-bootstrap.min.css
-
 ```
+
 
 ## License
 
