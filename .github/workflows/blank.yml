@@ -32,5 +32,4 @@ jobs:
       # Runs a set of commands using the runners shell
       - name: Run a multi-line script
         run: |
-          echo One more Version to release, 👍🏻
-          echo or Is this just a bug fix? 😜
+          echo One more Version to release 🎉
